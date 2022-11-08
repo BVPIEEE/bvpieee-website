@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: 
-Disallow: /assets/js/
-Disallow: /assets/css/
-
-Sitemap: http://www.bvpieeend.com/sitemap.xml
