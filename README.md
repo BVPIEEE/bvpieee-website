@@ -7,6 +7,6 @@ Official website of [BVP-IEEE](https://www.bvpieee.in/)
 
 
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/BVPIEEE/bvpieee-frontend/graphs/contributors">
+<a href = "https://github.com/BVPIEEE/bvpieee-website/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=BVPIEEE/bvpieee-website"/>
 </a>
